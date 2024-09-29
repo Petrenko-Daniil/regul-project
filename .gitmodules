@@ -1,0 +1,6 @@
+[submodule "regul-service-a"]
+	path = regul-service-a
+	url = git@github.com:Petrenko-Daniil/regul-service-a.git
+[submodule "regul-service-b"]
+	path = regul-service-b
+	url = git@github.com:Petrenko-Daniil/regul-service-b.git
